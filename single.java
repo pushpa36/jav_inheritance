@@ -31,3 +31,5 @@ class s11 extends s1
     System.out.println(ob.m3(sc.nextFloat()));
   }
 }
+
+// This code is written by miss universe
